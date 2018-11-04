@@ -4,7 +4,7 @@
 
 Munkalap kiválasztása aktuális hónap alapján
 + Adatok másolása céltartományba 
-+ E-mail értesítés küldése
+
 
 Készítette: Pál Zsombor 
 
